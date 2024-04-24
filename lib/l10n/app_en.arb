@@ -1,0 +1,123 @@
+{
+  "gamesTitle": "Games",
+  "@games": {
+    "description": "title of the screen which lists all games."     
+  },
+  "emptyEmailError": "Please fill in the email field.",
+  "@emptyEmailError": {
+  },
+  "emptyPasswordError": "Please fill in the password field.",
+  "@emptyPasswordError": {
+  },
+  "invalidEmailError": "Please enter a valid email.",
+  "@invalidEmailError": {
+  },
+  "loginError": "There has been an error during the login process-",
+  "@loginError": {
+  },
+  "credentialError": "The credentials you provided are incorrect",
+  "@credentialError": {
+  },
+  "successfulRegister": "Registration successful",
+  "@successfulRegister": {
+  },
+  "emailInUseError": "Email is already in use",
+  "@emailInUseError": {
+  },
+  "registrationError": "There has been an error during registration.",
+  "@registrationError": {
+  },
+  "logOutError": "There has been an error logging you out.",
+  "@logOutError": {
+  },
+  "gamesFetchError": "There has been an error while fetching the games list.",
+  "@gamesFetchError": {
+  },
+  "gameCreateError": "There has been an error while creating a game.",
+  "@gameCreateError": {
+  },
+  "gameJoinError": "There has been an error while joining the game.",
+  "@gameJoinError": {
+  },
+  "gameMoveError": "There has been an error executing the move.",
+  "@gameMoveError": {
+  },
+  "fetchUsersError": "There has been an error while fetching user profiles.",
+  "@fetchUsersError": {
+  },
+  "gameDetailTitle": "Game detail",
+  "@gameDetailTitle": {
+  },
+  "joinGame": "Join game",
+  "@joinGame": {
+  },
+  "winner": "Winner",
+  "@winner": {
+  },
+  "turn": "Turn",
+  "@turn": {
+  },
+  "status": "Status",
+  "@status": {
+  },
+  "players": "Players",
+  "@players": {
+  },
+  "created": "Created",
+  "@created": {
+  },
+  "gameId": "Game ID",
+  "@gameId": {
+  },
+  "labelAll": "All",
+  "@labelAll": {
+  },
+  "labelOpen": "Open",
+  "@labelOpen": {
+  },
+  "labelFinished": "Finished",
+  "@labelFinished": {
+  },
+  "labelInProgress": "In progress",
+  "@labelInProgress": {
+  },
+  "leaderboardTitle": "Leaderboard",
+  "@leaderboardTitle": {
+  },
+  "loginTitle": "Sign In",
+  "@loginTitle": {
+  },
+  "emailLabel": "Enter your email address",
+  "@emailLabel": {
+  },
+  "passwordLabel": "Enter your password",
+  "@passwordLabel": {
+  },
+  "loginButton": "Log In",
+  "@loginButton": {
+  },
+  "signUpPrompt": "No account? Sign Up!",
+  "@signUpPrompt": {
+  },
+  "registerTitle": "Create an account",
+  "@registerTitle": {
+  },
+  "signUpButton": "Sign Up",
+  "@signUpButton": {
+  },
+  "logInPrompt": "Already have an account? Log In!",
+  "@logInPrompt": {
+  },
+  "userName": "Username",
+  "@userName": {
+  },
+  "gameCount": "Game count",
+  "@gameCount": {
+  },
+  "winRate": "Win rate",
+  "@winRate": {
+  },
+  "dateFormat": "dd.MM.yyyy HH:mm:ss",
+  "@dateFormat": {
+  }
+}
